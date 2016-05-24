@@ -1,6 +1,6 @@
 {
     "name": "bower-helpers",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Collection of helper scripts for bower which could not be found anywhere",
     "dependencies": {
         "bower": "^1.0.0"
