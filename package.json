@@ -1,0 +1,29 @@
+{
+    "name": "bower-helpers",
+    "version": "0.0.1",
+    "description": "Collection of helper scripts for bower which could not be found anywhere",
+    "dependencies": {
+        "bower": "^1.0.0"
+    },
+    "bin": {
+        "bower-install-latest": "bin/bower-install-latest.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/coolersport/bower-helpers.git"
+    },
+    "keywords": [
+        "npm",
+        "bower",
+        "helpers"
+    ],
+    "author": "Tien Tran <contact@coolersport.info> (https://coolersport.info)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/coolersport/bower-helpers/issues"
+    },
+    "homepage": "https://github.com/coolersport/bower-helpers#readme"
+}
